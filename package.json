@@ -1,0 +1,17 @@
+{
+  "name": "s-lerna",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.3.0"
+  },
+  "engines": {
+    "node": ">=18.17.1"
+  }
+}
