@@ -1,0 +1,3 @@
+[submodule "packages/s-block"]
+	path = packages/s-block
+	url = https://github.com/SebastianWesolowski/s-block.git
